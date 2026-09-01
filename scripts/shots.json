@@ -1,0 +1,20 @@
+[
+  { "file": "dashboard.png",           "route": "#/micro-apps/vem/dashboard/index", "waitMs": 2500 },
+  { "file": "device-list.png",         "route": "#/micro-apps/vem/device/index", "waitMs": 2000 },
+  { "file": "device-detail.png",       "route": "#/micro-apps/vem/device/detail?id=REPLACE_DEVICE_ID", "waitMs": 2500 },
+  { "file": "device-stock.png",        "route": "#/micro-apps/vem/device/stock?id=REPLACE_DEVICE_ID", "waitMs": 2000 },
+  { "file": "restock-list.png",        "route": "#/micro-apps/vem/restock/index", "waitMs": 1500 },
+  { "file": "product-list.png",        "route": "#/micro-apps/vem/product/index", "waitMs": 1500 },
+  { "file": "product-category.png",    "route": "#/micro-apps/vem/product/category", "waitMs": 1500 },
+  { "file": "product-detail.png",      "route": "#/micro-apps/vem/product/detail", "waitMs": 1500 },
+  { "file": "order-list.png",          "route": "#/micro-apps/vem/order/index", "waitMs": 2000 },
+  { "file": "template-list.png",       "route": "#/micro-apps/vem/template/index", "waitMs": 1500 },
+  { "file": "template-editor.png",     "route": "#/micro-apps/vem/template/detail?id=REPLACE_TEMPLATE_ID&page=home", "waitMs": 2500 },
+  { "file": "report.png",              "route": "#/micro-apps/vem/report/index", "waitMs": 2000 },
+  { "file": "map.png",                 "route": "#/micro-apps/vem/map/index", "waitMs": 3000 },
+  { "file": "promotion-list.png",      "route": "#/micro-apps/vem/promotion/index", "waitMs": 1500 },
+  { "file": "promotion-code-list.png", "route": "#/micro-apps/vem/promotion-code/index", "waitMs": 1500 },
+  { "file": "alarm-list.png",          "route": "#/micro-apps/vem/alarm/index", "waitMs": 1500 },
+  { "file": "settings.png",            "route": "#/micro-apps/vem/setting/index", "waitMs": 1500 },
+  { "file": "channel-device-type.png", "route": "#/micro-apps/vem/channel/device-type/index", "waitMs": 1500 }
+]
