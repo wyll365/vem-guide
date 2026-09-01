@@ -25,7 +25,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '设备与商品(开店三步)',
+        text: '设备与商品(上线三步)',
         items: [
           { text: '① 设备接入与管理', link: '/guide/device' },
           { text: '② 商品管理', link: '/guide/product' },

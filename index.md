@@ -13,7 +13,7 @@ hero:
       link: /faq
 features:
   - icon: 🏪
-    title: 开店三步
+    title: 上线三步
     details: 接入设备 → 建立商品 → 排货道上架,十分钟完成第一台售卖机的开卖准备。
     link: /guide/device
   - icon: 📦
